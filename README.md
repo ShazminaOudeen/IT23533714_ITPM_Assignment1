@@ -158,9 +158,9 @@ The automated tests cover:
 
 ## Author
 
-Registration Number: IT23533714  
-Name: G.S Oudeen
-Batch: IT.WD.1.1
-Module: IT3040 – ITPM  
-Assignment: Playwright Automation Testing (Assignment 1)
+- Registration Number: IT23533714  
+- Name: G.S Oudeen
+- Batch: IT.WD.1.1
+- Module: IT3040 – ITPM  
+- Assignment: Playwright Automation Testing (Assignment 1)
 
